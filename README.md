@@ -3,8 +3,8 @@
      Programming Language: Python 
 
 **Libraries & Frameworks: Data Manipulation & Exploration**
-    Pandas – Efficient data loading, cleaning, and transformation.
-    NumPy – Numerical operations and array manipulation.
+    - Pandas – Efficient data loading, cleaning, and transformation.
+    - NumPy – Numerical operations and array manipulation.
 
 **Data Visualization**
     Matplotlib – Plotting static, interactive, and animated visualizations.
