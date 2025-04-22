@@ -1,6 +1,7 @@
 **Tech Stack:**
 
      Programming Language: Python 
+     Database: SQL
 
 **Libraries & Frameworks: Data Manipulation & Exploration**
 - **Pandas** – Efficient data loading, cleaning, and transformation.
