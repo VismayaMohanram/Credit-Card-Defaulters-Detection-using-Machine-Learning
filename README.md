@@ -2,19 +2,22 @@
 
      Programming Language: Python 
 
-**Libraries & Frameworks: Data Manipulation & Exploration:**
-     Pandas – Efficient data loading, cleaning, and transformation.
-     NumPy – Numerical operations and array manipulation.
+**Libraries & Frameworks: Data Manipulation & Exploration**
+- **Pandas** – Efficient data loading, cleaning, and transformation.
+- **NumPy** – Numerical operations and array manipulation.
 
-**Data Visualization:**
-    Matplotlib – Plotting static, interactive, and animated visualizations.
-    Seaborn – Advanced statistical plotting (heatmaps, distribution plots, etc.).
 
-**Machine Learning & Model Evaluation:**
-    Scikit-learn – Complete ML toolkit
-    train_test_split – For stratified sampling.
-    RobustScaler – For robust feature scaling (less sensitive to outliers).
+**Data Visualization**
+- **Matplotlib** – Plotting static, interactive, and animated visualizations.
+- **Seaborn** – Advanced statistical plotting (heatmaps, distribution plots, etc.).
 
+
+**Machine Learning & Model Evaluation**
+- **Scikit-learn** – Complete ML toolkit.
+- **train_test_split** – For stratified sampling.
+- **RobustScaler** – For robust feature scaling (less sensitive to outliers).
+
+     
 **ML Algorithms Used:**
    1. Logistic Regression
    2. Decision Tree
