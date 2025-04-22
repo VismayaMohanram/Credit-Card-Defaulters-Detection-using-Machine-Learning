@@ -2,15 +2,15 @@
 
      Programming Language: Python 
 
-**Libraries & Frameworks: Data Manipulation & Exploration**
-    - Pandas – Efficient data loading, cleaning, and transformation.
-    - NumPy – Numerical operations and array manipulation.
+**Libraries & Frameworks: Data Manipulation & Exploration:**
+     Pandas – Efficient data loading, cleaning, and transformation.
+     NumPy – Numerical operations and array manipulation.
 
-**Data Visualization**
+**Data Visualization:**
     Matplotlib – Plotting static, interactive, and animated visualizations.
     Seaborn – Advanced statistical plotting (heatmaps, distribution plots, etc.).
 
-**Machine Learning & Model Evaluation**
+**Machine Learning & Model Evaluation:**
     Scikit-learn – Complete ML toolkit
     train_test_split – For stratified sampling.
     RobustScaler – For robust feature scaling (less sensitive to outliers).
@@ -23,7 +23,7 @@
    5. AdaBoost
    6. Voting Classifier (Ensemble model combining all of the above)
 
-**Model Strategy**
+**Model Strategy:**
      80/20 Train-Test Split – For unbiased performance evaluation.
      Ensemble Learning – Soft voting classifier aggregates the strengths of all base models for improved accuracy.
      Evaluation Metrics – Accuracy, Precision, Recall, F1-score, Specificity.
