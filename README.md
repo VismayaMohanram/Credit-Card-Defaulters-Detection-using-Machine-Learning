@@ -1,6 +1,6 @@
-<u>**Tech Stack:**</u>
+**Tech Stack:**
 
-Programming Language: Python 
+     Programming Language: Python 
 
 **Libraries & Frameworks: Data Manipulation & Exploration**
     Pandas – Efficient data loading, cleaning, and transformation.
